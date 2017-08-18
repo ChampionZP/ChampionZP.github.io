@@ -15,7 +15,7 @@ comments: true
 In terms of the concepts of iterable,iterator and generator of python, it seems very confusing such that it's difficult to tell the differences clearly between them. Here I give an explanation of this mainly based on my own knowledge.
 ## an illustration
 following figure comes from [Vincent Driessen](http://nvie.com/posts/iterators-vs-generators/).
-<figure class="half">
+<figure>
     <img src="http://nvie.com/img/relationships.png">
     <figcaption>relationships</figcaption>
 </figure>
