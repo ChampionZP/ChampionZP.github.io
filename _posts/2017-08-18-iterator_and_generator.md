@@ -16,8 +16,8 @@ In terms of the concepts of iterable,iterator and generator of python, it seems 
 ## an illustration
 following figure comes from [Vincent Driessen](http://nvie.com/posts/iterators-vs-generators/).
 <figure class="half">
-    <a href="/home/zp/myimages-relationships.png"><img src="/home/zp/myimages.png"></a>
-    <figcaption>Caption describing these two images.</figcaption>
+    <img src="http://nvie.com/img/relationships.png">
+    <figcaption>relationships</figcaption>
 </figure>
 
 
